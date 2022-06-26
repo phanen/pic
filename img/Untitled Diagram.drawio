@@ -1,6 +1,6 @@
-<mxfile modified="2022-06-26T11:50:35.509Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="n-Ypml_EX0Uzi5z4De3Q" version="16.6.1" type="github">
+<mxfile modified="2022-06-26T11:52:54.830Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="SXKg1-vlZRfDwa6P1x78" version="16.6.1" type="github" pages="2">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="1009" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1135" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
         </mxCell>
         <mxCell id="GRsu6QpT3u70jx2Eb0mG-470" value="$$(sk_v, pk_v) \leftarrow KeyGen$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="GRsu6QpT3u70jx2Eb0mG-433">
           <mxGeometry x="-0.7657" y="7" relative="1" as="geometry">
-            <mxPoint x="16" y="7" as="offset" />
+            <mxPoint x="615" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="394" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;V&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;" parent="1" vertex="1">
@@ -74,34 +74,35 @@
             <mxPoint x="-25" y="24" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GRsu6QpT3u70jx2Eb0mG-468" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;startArrow=none;" edge="1" parent="1" source="GRsu6QpT3u70jx2Eb0mG-472">
+        <mxCell id="GRsu6QpT3u70jx2Eb0mG-468" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;startArrow=none;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="380" as="targetPoint" />
-            <mxPoint x="880.0000000000002" y="210.0000000000001" as="sourcePoint" />
+            <mxPoint x="670" y="380" as="targetPoint" />
+            <mxPoint x="670" y="200" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="880" y="300" />
-              <mxPoint x="880" y="300" />
+              <mxPoint x="670" y="300" />
+              <mxPoint x="670" y="300" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GRsu6QpT3u70jx2Eb0mG-472" value="&lt;font style=&quot;font-size: 18px&quot;&gt;$$S_i$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="840" y="280" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="GRsu6QpT3u70jx2Eb0mG-476" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;endArrow=none;" edge="1" parent="1" target="GRsu6QpT3u70jx2Eb0mG-472">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="380" as="targetPoint" />
-            <mxPoint x="880" y="210.0000000000001" as="sourcePoint" />
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GRsu6QpT3u70jx2Eb0mG-477" value="$$ (S_r, Q_r)\leftarrow KeyGen$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="290.00333333333333" y="240.0000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="GRsu6QpT3u70jx2Eb0mG-478" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Shamir Key Share&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="620.0033333333333" y="180.0000000000001" as="geometry">
+        <mxCell id="GRsu6QpT3u70jx2Eb0mG-478" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Shamir Key Share&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650.0033333333333" y="180.0000000000001" as="geometry">
             <mxPoint x="17" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="roQYMSTAKdNUzimryHmx-395" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;$$S_i$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="280" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3y2i5SyoOYJBpwfnIMte" name="Page-2">
+    <mxGraphModel dx="454" dy="237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+      <root>
+        <mxCell id="Ap7_MJamQMHk4yOpXl33-0" />
+        <mxCell id="Ap7_MJamQMHk4yOpXl33-1" parent="Ap7_MJamQMHk4yOpXl33-0" />
       </root>
     </mxGraphModel>
   </diagram>
