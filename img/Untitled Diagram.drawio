@@ -1,4 +1,4 @@
-<mxfile modified="2022-06-26T12:45:10.674Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="nXLiJKkopKqnhfZlCLoM" version="16.6.1" type="github" pages="4">
+<mxfile modified="2022-06-26T12:46:01.044Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="tXA65Jnmqzcr_FmzUzmk" version="16.6.1" type="github" pages="4">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1135" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
       <root>
@@ -189,12 +189,6 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="rZzGMohHKtRnoozHDRlP-2" value="Architecture: Media &amp;gt; Hybrid Rendering" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" vertex="1" parent="2cxvNTGZv2gfEpvAOu9M-1">
-          <mxGeometry x="34.5" y="40" width="1100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rZzGMohHKtRnoozHDRlP-3" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E0E0E0;" vertex="1" parent="2cxvNTGZv2gfEpvAOu9M-1">
-          <mxGeometry x="34.5" y="740" width="1100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZzGMohHKtRnoozHDRlP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;strokeWidth=4;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="2cxvNTGZv2gfEpvAOu9M-1" source="rZzGMohHKtRnoozHDRlP-10">
           <mxGeometry relative="1" as="geometry">
