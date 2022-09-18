@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T16:32:33.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="0KbSo5xaZa0k06942UoM" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-18T02:35:53.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="dX8oDmB6DJVDQjA13RXY" version="20.3.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1449" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="问题 1 模型建立和求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="223" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eTjnjW6QDWM-pAy8kAdX-1" target="eTjnjW6QDWM-pAy8kAdX-7">
           <mxGeometry relative="1" as="geometry" />
@@ -34,28 +34,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-7" value="根据类型, 分析统计规律" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="223" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eTjnjW6QDWM-pAy8kAdX-13" target="eTjnjW6QDWM-pAy8kAdX-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-13" value="剔除含有无效颜色值的文物样本" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="10" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eTjnjW6QDWM-pAy8kAdX-15" target="eTjnjW6QDWM-pAy8kAdX-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-15" value="卡方分析确定存在关系的属性对" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="320" width="120" height="50" as="geometry" />
+          <mxGeometry x="10" y="290" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-17" value="以表面是否风化为基准, 分类计频, 进一步刻画关系性" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="410" width="120" height="50" as="geometry" />
+          <mxGeometry x="10" y="372" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eTjnjW6QDWM-pAy8kAdX-21" target="eTjnjW6QDWM-pAy8kAdX-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-21" value="预处理排除&lt;br&gt;无效数据" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="240" width="120" height="50" as="geometry" />
+          <mxGeometry x="223" y="220" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eTjnjW6QDWM-pAy8kAdX-23" target="eTjnjW6QDWM-pAy8kAdX-25">
           <mxGeometry relative="1" as="geometry" />
@@ -64,25 +64,92 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-23" value="将文物分为四组, 分别汇总描述性统计数据" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="320" width="120" height="50" as="geometry" />
+          <mxGeometry x="223" y="296" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-25" value="同类型(高钾, 铅钡)内针对风化前后比较分析统计规律" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="410" width="120" height="50" as="geometry" />
+          <mxGeometry x="223" y="378" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eTjnjW6QDWM-pAy8kAdX-27" target="eTjnjW6QDWM-pAy8kAdX-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-27" value="基于描述性统计数据建立比率向量" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="323" y="317" width="120" height="55" as="geometry" />
+          <mxGeometry x="419" y="293" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-29" value="通过比率向量进行预测" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="323" y="412" width="120" height="45" as="geometry" />
+          <mxGeometry x="419" y="388" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eTjnjW6QDWM-pAy8kAdX-31" target="eTjnjW6QDWM-pAy8kAdX-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eTjnjW6QDWM-pAy8kAdX-31" value="根据风化点检测数据预测其风化前的物质含量" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="318" y="156" width="130" height="50" as="geometry" />
+          <mxGeometry x="414" y="155" width="130" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jQgt_hSYGjFGHzb5q6wn" name="第 2 页">
+    <mxGraphModel dx="1449" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lTkQiE0a3zfQOqCfDEna-4" target="lTkQiE0a3zfQOqCfDEna-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTkQiE0a3zfQOqCfDEna-4" target="lTkQiE0a3zfQOqCfDEna-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-4" value="问题 4 模型建立和求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="423" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTkQiE0a3zfQOqCfDEna-7" target="lTkQiE0a3zfQOqCfDEna-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTkQiE0a3zfQOqCfDEna-7" target="lTkQiE0a3zfQOqCfDEna-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTkQiE0a3zfQOqCfDEna-7" target="lTkQiE0a3zfQOqCfDEna-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-7" value="关联性分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="263" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTkQiE0a3zfQOqCfDEna-10" target="lTkQiE0a3zfQOqCfDEna-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-10" value="关联性的差异性分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTkQiE0a3zfQOqCfDEna-12" target="lTkQiE0a3zfQOqCfDEna-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-12" value="夏皮洛-威尔克检验 : Peterson 系数可行性差" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="83" y="227" width="120" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTkQiE0a3zfQOqCfDEna-14" target="lTkQiE0a3zfQOqCfDEna-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-14" value="计算 spearson 相关系数, (包括显著性)" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="83" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-17" value="灰色关联分析" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="345" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTkQiE0a3zfQOqCfDEna-28" target="lTkQiE0a3zfQOqCfDEna-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-28" value="计算每个成分相对于其他 13 种成分的灰色关联度向量" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="263" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lTkQiE0a3zfQOqCfDEna-30" target="lTkQiE0a3zfQOqCfDEna-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="370" as="targetPoint" />
+            <mxPoint x="394" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTkQiE0a3zfQOqCfDEna-30" value="汇总相关性分析数据得到成分关联程度表" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="263" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
